@@ -1,0 +1,53 @@
+body{
+
+	background-color: #2C3E50;
+	color: white;
+	font-size: 18px;
+
+}
+#userW {
+
+	position: absolute;;
+	top: 30%;
+	left: 25%;
+	width: 50%;
+	height: 5%;
+	color: gray;
+	font-family: helvetica;
+	font-size: 22px;
+
+
+}
+
+#enterL{
+
+	position: absolute;
+	top: 20%;
+	left: 44%;
+	font-family: rockwell;
+	font-size: 24px;
+	color: white;
+	text-decoration: underline;
+
+}
+
+#btnS{
+
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	width: 10%;
+	height: 6%;
+	font-family: helvetica;
+	font-size: 22px;
+	background-color: #2C8AC8;
+	color: white;
+
+}
+
+h2{
+	font-size: 18px;
+	font-family: helvetica;
+	color: white;
+
+}
